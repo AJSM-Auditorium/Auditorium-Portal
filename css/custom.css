@@ -835,7 +835,7 @@ p#clock {
     list-style: none;
     /*display: inline-flex;*/
     color: #fff;
-    margin-top: 1px;
+    /* margin-top: 1px; */
     margin-left: auto;
     margin-right: auto;
     padding: 0;
@@ -8002,4 +8002,5 @@ body {
     min-width: 160px;
 }
 }
+
 
